@@ -1,9 +1,19 @@
 🎲 Number Guessing Game (Java Project)
+
+
+
+
 📌 Overview
+
 The Number Guessing Game is a simple Java console-based application where the computer generates a random number and the user tries to guess it.
 This project is part of the AICTE OIBSIP Internship and demonstrates core Java concepts such as loops, conditionals, random number generation, and user input handling.
 
+
+
+
+
 ⚡ Features
+
 Random number generation within a specified range (1 to 100)
 User-friendly console interaction
 Feedback after each guess (Too High / Too Low)
